@@ -1,0 +1,7 @@
+C:\Users\chaud\source\repos\AzureProjectSol\AzureProject\bin\Debug\AzureProject.exe.config
+C:\Users\chaud\source\repos\AzureProjectSol\AzureProject\bin\Debug\AzureProject.exe
+C:\Users\chaud\source\repos\AzureProjectSol\AzureProject\bin\Debug\AzureProject.pdb
+C:\Users\chaud\source\repos\AzureProjectSol\AzureProject\obj\Debug\AzureProject.csprojAssemblyReference.cache
+C:\Users\chaud\source\repos\AzureProjectSol\AzureProject\obj\Debug\AzureProject.csproj.CoreCompileInputs.cache
+C:\Users\chaud\source\repos\AzureProjectSol\AzureProject\obj\Debug\AzureProject.exe
+C:\Users\chaud\source\repos\AzureProjectSol\AzureProject\obj\Debug\AzureProject.pdb
